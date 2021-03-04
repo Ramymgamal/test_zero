@@ -1,0 +1,44 @@
+body {
+    font-family:'Droid Arabic Naskh', serif; line-height:60px;}
+
+.reg:hover,.cart:hover .svg-icon:hover{color:orange;
+    font-weight: bold;
+    fill:orange;
+   font-size: larger;
+    
+}
+
+
+
+
+.menue li{
+   
+    color: white;
+
+}
+.menue{
+    background-color: forestgreen;
+    
+}
+
+
+
+    
+ 
+ 
+.svg-icon{
+    width: 50px;
+    height: 50px;
+    
+    margin-right: 30px;
+
+    fill: gainsboro;
+
+}
+ nav{
+ 
+ background-color: #1CAA39;
+ }
+ .carousel-inner img {
+    margin: auto;
+  }
